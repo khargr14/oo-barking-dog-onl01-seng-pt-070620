@@ -11,7 +11,7 @@ class Dog
 end 
 
 class Dog
-  def dab
+  def bark
     puts "woof!"
   end 
   
